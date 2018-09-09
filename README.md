@@ -8,7 +8,7 @@ A Java application that works as a middle-ware to interpret the messages receive
 2. The repository contains the source code for the Java desktop application.
 
 - The whole system can be visualized as an interaction between a Computer and a Smartphone. 
-![alt text](https://github.com/pra95/HCISystem/blob/master/manifest.mf "HCI Flow Chart")
+![alt text](https://github.com/pra95/HCISystem/blob/master/flow_chart.png "HCI Flow Chart")
 - The block diagram shows two devices with a wireless Communication media. 
 - The Smartphone has the HCI application used for taking input from the user with the help of inbuilt sensors in the Smartphone. 
 - The data gathered is then sent to the intermediate data buffer. 
